@@ -1,0 +1,20 @@
+Arduino Fio (x4 - €100) :
+http://www.digikey.nl/product-search/en?KeyWords=arduino%20fio&WT.z_header=search_go
+USB to Serial Cable (x1 - €20) :
+http://www.digikey.nl/product-detail/en/TTL-232R-5V/768-1028-ND/2003493
+
+BTBee Pro (x4 - €90) :
+http://www.hackerstore.nl/Artikel/509
+
+RGB LED (4x - €4) :
+http://www.miniinthebox.com/nl/rgb-3-color-led-module-voor-arduino_p903316.html
+Switch (1x - €6) :
+http://www.miniinthebox.com/nl/7-x-7-mm-6-pins-zelfsluitend-switch-sleutelschakelaar-50-stuks_p2349978.html
+Button (1x - €2) :
+http://www.miniinthebox.com/nl/12-x-12-x-7-3-mm-button-switches-zwart-20-stuks_p1482041.html
+Battery Pack (4x - €24) :
+http://www.miniinthebox.com/nl/3-6v-1000mah-vervanging-ni-mh-batterij-hgb-2a10-3_p249642.html
+Soldering Board (1x - €2,50) :
+http://www.miniinthebox.com/nl/7051-tweezijdige-hot-air-solder-leveling-boards-groen-zilver-5-pcs_p617760.html
+Resistors (1x - €2) :
+http://www.miniinthebox.com/nl/1w-weerstand-1-metaalfilm-weerstand-1kohm-20st_p2422391.html
