@@ -1,0 +1,21 @@
+Speaker €3,00
+http://floris.cc/shop/en/general-components/498-speaker.html
+
+Arduino Fio €26,50
+http://floris.cc/shop/en/arduino-/15-arduino-fio.html
+
+Bluetooth Bee €19,00
+http://floris.cc/shop/en/wireless-xbee-bluetooth-wifi/1140-bluetooth-bee-standalone.html
+
+Big Dome Push Button €11,50
+http://floris.cc/shop/en/knobs-buttons-joysticks/571-big-dome-push-button-red.html
+http://floris.cc/shop/en/knobs-buttons-joysticks/572-big-dome-push-button-blue.html
+http://floris.cc/shop/en/knobs-buttons-joysticks/573-big-dome-push-button-green.html
+http://floris.cc/shop/en/knobs-buttons-joysticks/574-big-dome-push-button-yellow.html
+
+Speaker €3,00 x 4 = €12,00
+Arduino Fio €26,50 x 4 = €106,00
+Bluetooth Bee €19,00 x 4 = €76,00
+Big Dome Push Button €11,50 x 16 = €184,00
+--
+Subtotal = €378,00
